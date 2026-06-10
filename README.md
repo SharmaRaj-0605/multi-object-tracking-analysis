@@ -41,10 +41,11 @@ The goal is to understand when each algorithm excels and what trade-offs exist i
 ```
 deepsort-vs-bytetrack-mot17/
 │
-├── data/                   # MOT17 dataset (download separately)
-├── results/                # Output metrics and comparisons
-├── notebooks/              # Analysis notebooks
-└── README.md
+├── data                  # MOT17 dataset (download separately)
+├── results                # Output metrics and comparisons
+├── notebooks              # Analysis notebooks
+├── README.md
+└─ requirements.txt         # Requirements 
 ```
 
 ---
