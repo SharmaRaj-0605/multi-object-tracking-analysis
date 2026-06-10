@@ -1,0 +1,16 @@
+## Dataset
+
+This project uses the MOT17 benchmark dataset for multi-object tracking evaluation.
+
+### Dataset Details
+
+- Dataset: MOT17
+- Source: MOTChallenge
+- Task: Multi-Object Tracking
+- Object Class: Pedestrians
+- Detection Model: YOLOv8x
+- - Tracker: ByteTrack & deepsort    #The tracker can be selected by changing the `tracker_type` variable in the notebook.
+### Download
+
+Download the dataset from the official MOTChallenge website and place it inside the `data/` directory.
+
