@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+motmetrics
+scipy
+lap
+filterpy
+tqdm
+jupyter
