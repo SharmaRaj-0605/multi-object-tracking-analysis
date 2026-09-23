@@ -18,15 +18,15 @@ The goal is to understand when each algorithm excels and what trade-offs exist i
 ---
 
 
-## ✨ Features
+##  Features
 
-- ✅ Standard metrics: MOTA, MOTP, IDF1, ID Switches, FP, FN
+-  Standard metrics: MOTA, MOTP, IDF1, ID Switches, FP, FN
   
-- ✅ Detailed analysis report 
+-  Detailed analysis report 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.9+
 - **Tracking:** DeepSORT, ByteTrack
@@ -36,7 +36,7 @@ The goal is to understand when each algorithm excels and what trade-offs exist i
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 deepsort-vs-bytetrack-mot17/
@@ -50,7 +50,7 @@ deepsort-vs-bytetrack-mot17/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -83,14 +83,14 @@ python evaluation/compare_metrics.py
 
 ---
 
-## 📷 Sample Output
+##  Sample Output
 
 
 <img width="1717" height="956" alt="image" src="https://github.com/user-attachments/assets/c0df0e30-527b-42ed-b3bb-a4d11f3ebf0a" />
 
 ---
 
-## 📄 References
+##  References
 
 - [DeepSORT Paper](https://arxiv.org/abs/1703.07402)
 - [ByteTrack Paper](https://arxiv.org/abs/2110.06864)
